@@ -1,2 +1,4 @@
 # Fatbobot's Notes
-hi
+
+##Summary
+This repository contains all notes taken by Paul Jean in LHL Dev bootcamp
